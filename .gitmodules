@@ -1,0 +1,3 @@
+[submodule "angular-store"]
+    path = angular-store
+    url = https://github.com/username/angular-store.git
